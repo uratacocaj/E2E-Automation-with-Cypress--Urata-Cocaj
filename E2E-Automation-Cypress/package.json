@@ -1,0 +1,20 @@
+{
+  "name": "e2e-automation-cypress",
+  "version": "1.0.0",
+  "description": "E2E automation guide with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uratacocaj/E2E-Automation-with-Cypress--Urata-Cocaj"
+  },
+  "author": "Urata Cocaj",
+  "license": "ISC",
+  "homepage": "https://github.com/uratacocaj/E2E-Automation-with-Cypress--Urata-Cocaj",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
